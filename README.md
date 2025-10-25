@@ -1,26 +1,31 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h1 align="center">Hi there 👋<br> I'm O. Midiyanto</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br> I'm O. Midiyanto</h1>
 <p align="center">
-  <strong>Experienced DevSecOps Engineer & Open-Source Solutions Architect</strong>
+  <strong>DevSecOps Engineer & Open-Source Solutions Architect</strong>
   <br />
   <em>Expert in Linux, Infrastructure, Security, Automation, and Cloud-Native Technologies.</em>
 </p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FFFFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=DevSecOps+Engineer;Kubernetes+%26+Cloud-Native+Specialist;CI%2FCD+%7C+Automation+%7C+Orchestration+%7C+IaC;Monitoring+%7C+Logging+%7C+Observability;Cybersecurity;Open-Source+Solutions+Architect;Always+Learning+New+Things">
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omidiyanto&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=omidiyanto&label=Profile%20Views&color=63f542&style=flat" alt="Profile Views"/>
 </p>
 
 <a target="_blank" align="right">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="350" width="300" alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
 </a>
 
 - 🔭 I architect and secure scalable infrastructure using **Kubernetes, Terraform, and CI/CD pipelines**.
-- 🛡️ My expertise covers **IaC** (Ansible, Terraform), **Containerization** (Docker, K8s, Rancher), and **Security** (Vault, Trivy, SonarQube).
+- 🛡️ My expertise covers **IaC** (Ansible, Terraform), **Containerization** (Docker, K8s, Rancher), and **Security** (Vault, Trivy, SonarQube, OWASP ZAP).
 - ☁️ Proficient in multi-cloud environments, with experience across **AWS, GCP, IBM Cloud, and Alibaba Cloud**.
-- 🚀 I build resilient CI/CD workflows using **Jenkins, GitLab CI, GitHub Actions, and ArgoCD**.
+- 🚀 I build resilient and Secure GitOps CI/CD Pipeline using **Jenkins, GitLab CI, GitHub Actions, and ArgoCD**.
 - 🎓 Proud to be a **Red Hat Certified System Administrator (RHCSA)** and **Red Hat Certified Instructor (RHCI)**.
-- 🌱 I'm always learning and currently diving deeper into **Go (Golang)** and advanced security patterns.
+- 🌱 Continuously learning and helping companies architect scalable, secure, and **open-source solutions**.
 - ✉️ Let's connect: **omidiyanto7@gmail.com**
 - 🏍️ Fun fact: I'm a huge **MotoGP** fan!
 
@@ -40,26 +45,17 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">My DevSecOps Toolkit 🛠️</h2></summary>
+    <summary><h2 style="display: inline-block">Tools Stack 🛠️</h2></summary>
   </ul>
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,ibmcloud,alibabacloud,ansible,terraform,vault,docker,kubernetes,rancher,jenkins,gitlab,githubactions,argocd,grafana,prometheus,elasticsearch,trivy,sonarqube,grype,postgresql,mysql,mongodb,nginx,haproxy,go,python,dotnet&perline=10" />
+  <a href="https://go-skill-icons.vercel.app">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,bash,aws,gcp,ansible,terraform,docker,kubernetes,rancher,helm,jenkins,argocd,gitlab,githubactions,grafana,prometheus,elasticsearch,postgresql,mysql,mongodb,nginx,go,python,dotnet,cloudflare,selenium,linux,proxmox,redhat,ubuntu,&theme=light&perline=10" />
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
-
-<h3 align="center">My GitHub Stats</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=omidiyanto" alt="omidiyanto" />
-  </a>
-</p>
+<h3 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>GitHub Stats</h3>
 
 <table align="center" border="none">
   <tr border="none">
@@ -73,7 +69,11 @@
 </table>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omidiyanto&theme=tokyonight" alt="omidiyanto streak" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=omidiyanto&theme=tokyonight" alt="omidiyanto streak" />
 </p>
+<div align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/raw/output/github-contribution-grid-snake.svg?" alt="Snake animation from my contribution graph" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+

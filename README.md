@@ -63,7 +63,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=omidiyanto&show_icons=true&locale=en&theme=tokyonight" alt="omidiyanto stats" />
     </td>
     <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidiyanto&layout=compact&theme=tokyonight" alt="omidiyanto top languages" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidiyanto&layout=compact&theme=tokyonight&cache_seconds=60" alt="omidiyanto top languages" />
     </td>
   </tr>
 </table>

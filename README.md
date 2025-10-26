@@ -60,17 +60,24 @@
   GitHub Stats
 </h3>
 
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=omidiyanto&show_icons=true&locale=en&theme=tokyonight&cache_seconds=60"
-       alt="omidiyanto stats"
-       style="width: 420px; height: 200px; border-radius: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidiyanto&layout=compact&theme=tokyonight&cache_seconds=60"
-       alt="omidiyanto top languages"
-       style="width: 380px; height: 200px; border-radius: 10px;" />
+<div align="center" style="display: flex; justify-content: center; align-items: stretch; gap: 10px; flex-wrap: wrap;">
+
+  <div style="flex: 1 1 420px; display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=omidiyanto&show_icons=true&locale=en&theme=tokyonight&hide_border=false&border_radius=10&cache_seconds=60"
+         alt="omidiyanto stats"
+         style="width: 100%; max-width: 420px; border-radius: 10px;" />
+  </div>
+
+  <div style="flex: 1 1 420px; display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidiyanto&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&cache_seconds=60"
+         alt="omidiyanto top languages"
+         style="width: 100%; max-width: 420px; border-radius: 10px;" />
+  </div>
+
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=omidiyanto&theme=tokyonight&cache_seconds=60" alt="omidiyanto streak" />
+  <img src="https://streak-stats.demolab.com/?user=omidiyanto&theme=tokyonight&hide_border=false&border_radius=10&cache_seconds=60" alt="omidiyanto streak" />
 </p>
 
 <div align="center">

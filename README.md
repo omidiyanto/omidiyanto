@@ -55,35 +55,25 @@
   </a>
 </p>
 
-<h3 align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px">
-  GitHub Stats
-</h3>
+<h3 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>GitHub Stats</h3>
 
-<div align="center" style="display: flex; justify-content: center; align-items: stretch; gap: 10px; flex-wrap: wrap;">
-
-  <div style="flex: 1 1 420px; display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=omidiyanto&show_icons=true&locale=en&theme=tokyonight&hide_border=false&border_radius=10&cache_seconds=60"
-         alt="omidiyanto stats"
-         style="width: 100%; max-width: 420px; border-radius: 10px;" />
-  </div>
-
-  <div style="flex: 1 1 420px; display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidiyanto&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&cache_seconds=60"
-         alt="omidiyanto top languages"
-         style="width: 100%; max-width: 420px; border-radius: 10px;" />
-  </div>
-
-</div>
+<table align="center" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=omidiyanto&show_icons=true&locale=en&theme=tokyonight&cache_seconds=60" alt="omidiyanto stats" />
+    </td>
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidiyanto&layout=compact&theme=tokyonight&cache_seconds=60" alt="omidiyanto top languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=omidiyanto&theme=tokyonight&hide_border=false&border_radius=10&cache_seconds=60" alt="omidiyanto streak" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=omidiyanto&theme=tokyonight&cache_seconds=60" alt="omidiyanto streak" />
 </p>
-
 <div align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/raw/output/github-contribution-grid-snake.svg?" alt="Snake animation from my contribution graph" />
 </div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 

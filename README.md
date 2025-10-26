@@ -66,7 +66,7 @@
        style="width: 420px; height: 200px; border-radius: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidiyanto&layout=compact&theme=tokyonight&cache_seconds=60"
        alt="omidiyanto top languages"
-       style="width: 420px; height: 200px; border-radius: 10px;" />
+       style="width: 380px; height: 200px; border-radius: 10px;" />
 </div>
 
 <p align="center">

@@ -55,18 +55,26 @@
   </a>
 </p>
 
-<h3 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>GitHub Stats</h3>
+<h3 align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px">
+  GitHub Stats
+</h3>
 
-<table align="center" border="none">
-  <tr border="none">
-    <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=omidiyanto&show_icons=true&locale=en&theme=tokyonight&cache_seconds=60" alt="omidiyanto stats" />
-    </td>
-    <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidiyanto&layout=compact&theme=tokyonight&cache_seconds=60" alt="omidiyanto top languages" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=omidiyanto&show_icons=true&locale=en&theme=tokyonight&cache_seconds=60" 
+       alt="omidiyanto stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidiyanto&layout=compact&theme=tokyonight&cache_seconds=60" 
+       alt="omidiyanto top languages" height="180" />
+</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=omidiyanto&theme=tokyonight&cache_seconds=60" alt="omidiyanto streak" />
+</p>
+
+<div align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/raw/output/github-contribution-grid-snake.svg?" 
+       alt="Snake animation from my contribution graph" />
+</div>
 
 <p align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=omidiyanto&theme=tokyonight&cache_seconds=60" alt="omidiyanto streak" />

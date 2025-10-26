@@ -60,11 +60,13 @@
   GitHub Stats
 </h3>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=omidiyanto&show_icons=true&locale=en&theme=tokyonight&cache_seconds=60" 
-       alt="omidiyanto stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidiyanto&layout=compact&theme=tokyonight&cache_seconds=60" 
-       alt="omidiyanto top languages" height="190" />
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=omidiyanto&show_icons=true&locale=en&theme=tokyonight&cache_seconds=60"
+       alt="omidiyanto stats"
+       style="width: 420px; height: 200px; border-radius: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidiyanto&layout=compact&theme=tokyonight&cache_seconds=60"
+       alt="omidiyanto top languages"
+       style="width: 420px; height: 200px; border-radius: 10px;" />
 </div>
 
 <p align="center">
@@ -72,8 +74,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/raw/output/github-contribution-grid-snake.svg?" 
-       alt="Snake animation from my contribution graph" />
+  <img src="https://github.com/7oSkaaa/7oSkaaa/raw/output/github-contribution-grid-snake.svg?" alt="Snake animation from my contribution graph" />
 </div>
 
 
